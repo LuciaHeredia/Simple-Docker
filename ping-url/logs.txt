@@ -1,0 +1,17 @@
+2025-01-08T23:26:14.809616646Z PING google.com (142.250.75.46) 56(84) bytes of data.
+2025-01-08T23:26:14.809649546Z 64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=1 ttl=116 time=5.02 ms
+2025-01-08T23:26:15.806324927Z 64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=2 ttl=116 time=5.70 ms
+2025-01-08T23:26:16.807808909Z 64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=3 ttl=116 time=5.82 ms
+2025-01-08T23:26:17.809808091Z 64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=4 ttl=116 time=6.13 ms
+2025-01-08T23:26:18.811077674Z 64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=5 ttl=116 time=5.82 ms
+2025-01-08T23:26:19.812921033Z 64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=6 ttl=116 time=6.11 ms
+2025-01-08T23:26:20.814626357Z 64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=7 ttl=116 time=5.89 ms
+2025-01-08T23:26:21.816655681Z 64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=8 ttl=116 time=6.22 ms
+2025-01-08T23:26:22.816858504Z 64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=9 ttl=116 time=5.27 ms
+2025-01-08T23:26:23.819984629Z 64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=10 ttl=116 time=6.10 ms
+2025-01-08T23:26:24.820867252Z 64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=11 ttl=116 time=5.61 ms
+2025-01-08T23:26:25.824159877Z 64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=12 ttl=116 time=6.11 ms
+2025-01-08T23:26:25.926461800Z 
+2025-01-08T23:26:25.926500100Z --- google.com ping statistics ---
+2025-01-08T23:26:25.926502500Z 12 packets transmitted, 12 received, 0% packet loss, time 11019ms
+2025-01-08T23:26:25.926504500Z rtt min/avg/max/mdev = 5.021/5.817/6.224/0.354 ms
