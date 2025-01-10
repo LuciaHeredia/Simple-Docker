@@ -11,4 +11,4 @@ WORKDIR /app
 COPY textfile.txt /app
 
 # open file
-CMD ["nano", "textfile.txt"]
+CMD ["nano", "/app/textfile.txt"]
